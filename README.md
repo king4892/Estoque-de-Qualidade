@@ -4,7 +4,7 @@
 
 1º Passo: Importar o projeto 
 -Realize o git clone do projeto para o editor de codigo local ou de preferencia, use:
-git clone https://github.com/viniciusQuaresma2011/Projeto_Sistema_Comercio.git
+git clone
 
 2º Passo: Acessar o diretório do projeto
 -Entre na pasta do diretório do projeto com o comando:
