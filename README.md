@@ -4,7 +4,7 @@
 
 1º Passo: Importar o projeto 
 -Realize o git clone do projeto para o editor de codigo local ou de preferencia, use:
-git clone
+git clone: https://github.com/king4892/Estoque-de-Qualidade.git
 
 2º Passo: Acessar o diretório do projeto
 -Entre na pasta do diretório do projeto com o comando:
