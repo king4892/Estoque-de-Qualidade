@@ -8,7 +8,7 @@ git clone:https://github.com/king4892/Estoque-de-Qualidade.git
 
 2º Passo: Acessar o diretório do projeto
 -Entre na pasta do diretório do projeto com o comando:
-cd Projeto_Sistema_Comercio
+cd Estoque-de-Qualidade
 
 3º Passo: Criar as Imagens e levantar os containers com as suas respectivas imagens
 -Para criar as imagens e subir para um container, use o comando abaixo no terminal:
